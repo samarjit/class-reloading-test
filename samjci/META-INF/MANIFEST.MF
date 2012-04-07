@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: tcurdt
+Build-Jdk: 1.5.0_07
+Implementation-Title: examples
+Implementation-Vendor: Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Implementation-Version: 1.0
+Specification-Title: examples
+Specification-Vendor: Apache Software Foundation
+Specification-Version: 1.0
+X-Compile-Source-JDK: 1.4
+X-Compile-Target-JDK: 1.4
+
